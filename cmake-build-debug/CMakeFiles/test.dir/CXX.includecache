@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gladmin/Documents/ComputacionParalelayD/test/io.h
+iostream
+-
+fstream
+-
+
+/Users/gladmin/Documents/ComputacionParalelayD/test/strassen.cpp
+cstdio
+-
+cstdlib
+-
+timer.h
+/Users/gladmin/Documents/ComputacionParalelayD/test/timer.h
+/usr/local/opt/libomp/include/omp.h
+-
+iostream
+-
+io.h
+/Users/gladmin/Documents/ComputacionParalelayD/test/io.h
+vector
+-
+cmath
+-
+algorithm
+-
+
+/Users/gladmin/Documents/ComputacionParalelayD/test/timer.h
+sys/time.h
+-
+
+/usr/local/opt/libomp/include/omp.h
+stdlib.h
+-
+stdint.h
+-
+

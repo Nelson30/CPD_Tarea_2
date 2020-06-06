@@ -1,0 +1,3 @@
+/Users/gladmin/Documents/ComputacionParalelayD/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gladmin/Documents/ComputacionParalelayD/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gladmin/Documents/ComputacionParalelayD/test/cmake-build-debug/CMakeFiles/test.dir
